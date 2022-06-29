@@ -1,0 +1,12 @@
+.btn{
+    background-color: aquamarine;
+    padding: 12px 12px;
+    transition-duration: 0.5s;
+    margin-right: 32px;
+}
+
+.btn:hover{
+    cursor: pointer;
+    background-color: #282c34;
+    color: aliceblue;
+}
